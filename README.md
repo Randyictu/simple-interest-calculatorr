@@ -7,7 +7,7 @@ A bash script to calculate simple interest. This project is part of a micro-fina
 
 # Simple Interest Calculator
 
-echo "Welcome to the Simple Interest Calculator"
+echo "Welcome to the simple Interest Calculator"
 
 # Read principal, rate, and time from the user
 read -p "Enter the principal amount: " principal
